@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 서블릿이 앞단에서 처리해야 할일을 설정한다 예)한글처리 -->
+
+
+
+
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
   <display-name>hellospring</display-name>
   <welcome-file-list>
@@ -19,7 +24,7 @@
 
 
 
-  
+<!-- spring-servlet.xml을 설정한다. -->  
 <!-- DispatChServlet Mapping : Front Controller 등록 -->
 <servlet>
 	<servlet-name>spring</servlet-name>

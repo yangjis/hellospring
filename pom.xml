@@ -1,4 +1,5 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<!-- 스프링에서 다운받아야되는 파일들을 pom.xml에 설정 -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>hellospring</groupId>
   <artifactId>hellospring</artifactId>
