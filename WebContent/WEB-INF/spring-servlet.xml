@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 스프링과 관련된 설정 -->
+<!-- 스프링과 관련된 설정 예)베이스 패키지 -->
 
 
 <beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
